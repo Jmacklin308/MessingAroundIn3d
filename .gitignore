@@ -9,3 +9,4 @@ Assets/ludiq/*
 !/Assets
 !/ProjectSettings
 !/Packages
+!/*.asmdef
