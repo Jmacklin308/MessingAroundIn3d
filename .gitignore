@@ -1,6 +1,9 @@
 # Ignore Everything
 /*
 
+#ignore ludiq peek
+Assets/ludiq/*
+
 # Except for these:
 !/.gitignore
 !/Assets
